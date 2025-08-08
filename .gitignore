@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# macOS
+.DS_Store
+._*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Testing
+.tox/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+
+# Temporary files
+*.tmp
+tmp/
+temp/
